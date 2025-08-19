@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model checkpoints (optional - you might want to include the trained model)
+# checkpoints/*.pth
+
+# Logs
+*.log
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Audio files (if you add test audio)
+*.wav
+*.mp3
+*.flac
+
+# Evaluation plots (will be regenerated)
+# evaluation_plots/*.png
