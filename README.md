@@ -200,9 +200,6 @@ Our model significantly exceeds the target accuracy and achieves much faster inf
 **Test Set (97.0% accuracy):**
 ![Test Confusion Matrix](evaluation_plots/confusion_matrix_test.png)
 
-### Model Architecture Comparison
-![Model Architecture Comparison](evaluation_plots/model_comparison.png)
-
 The 2D CNN was selected as the optimal architecture based on the best balance of accuracy, speed, and parameter efficiency.
 
 ## 🔬 Development Process with LLM Collaboration
